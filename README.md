@@ -19,7 +19,7 @@ The trained model was exported in TensorFlow/Keras format and tested using Pytho
 
 ## Project Files
 
-- Bolt VS Gear .py – Python script for image prediction.
+- Bolt VS Gear.py – Python script for image prediction.
 - keras_model.h5 – Trained model.
 - labels.txt – Class labels.
 - output_gear.png – Prediction result for a gear image.
